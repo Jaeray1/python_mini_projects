@@ -1,0 +1,5 @@
+noun = input("Noun: ")
+verb = input("Verb: ")
+adj = input("Adjective: ")
+place = input("Place: ")
+print(f"One day my {adj} {noun} decided to {verb} at {place} in Gen AI class!")
